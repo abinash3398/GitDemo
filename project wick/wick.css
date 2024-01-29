@@ -1,0 +1,74 @@
+body {
+  background-image: url(wallpaperflare.com_wallpaper.jpg);
+}
+
+h1 iframe {
+  position: absolute;
+  width: 30%;
+  height: 100%;
+  margin: -10px;
+}
+h2 img {
+  position: absolute;
+  margin: 0%;
+  height: 15%;
+  width: 100%;
+  left: 0%;
+  top: 0%;
+}
+div .d1 {
+  margin: auto;
+  width: 50%;
+}
+
+.qt {
+  position: absolute;
+  margin-left: 50%;
+  margin-top: 8%;
+}
+
+div .d2 {
+  margin: auto;
+  width: 50%;
+}
+.qt2 {
+  position: absolute;
+  margin-left: 25%;
+  margin-top: 70%;
+}
+div .d3 {
+  margin: auto;
+  width: 50%;
+}
+.qt3 {
+  position: absolute;
+  margin-top: 50%;
+}
+
+.qt4 {
+  margin-top: 55%;
+}
+img {
+  opacity: 1;
+  filter: alpha(opacity=40);
+}
+
+.qt3:hover {
+  opacity: 0.5;
+  filter: alpha(opacity=100);
+}
+.radar {
+  position: absolute;
+  margin-left: 29%;
+  margin-top: 20%;
+  padding-left: 12px;
+}
+.killcount {
+  position: absolute;
+  margin-left: 60%;
+  margin-top: 70%;
+}
+.killstat {
+  position: absolute;
+  margin-top: 11%;
+}
