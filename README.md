@@ -1,10 +1,12 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+![MasterHead](https://i.pinimg.com/originals/51/8a/fb/518afb1d1cdc07eb7d2b1729f03fe91e.gif)
 <h1 align="center">Hi 👋, I'm Abinash</h1>
 <h3 align="center">A developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abinash3398&label=Profile%20views&color=0e75b6&style=flat" alt="abinash3398" /> </p>
 
 - 🌱 I’m currently learning **python**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
