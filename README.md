@@ -4,9 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abinash3398&label=Profile%20views&color=0e75b6&style=flat" alt="abinash3398" /> </p>
 
-- 🌱 I’m currently learning **python**
+🌱 I’m currently learning **python**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
